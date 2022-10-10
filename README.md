@@ -1,4 +1,3 @@
-# 2019_course
-Upload your code and report.
-Marks your name & ID
-姜月千 upload his work
+# 2019_Nuclear_Safety&Security_Course
+Upload your code and report via GitHub
+Notice:Marks your name & ID
